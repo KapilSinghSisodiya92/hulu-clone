@@ -1,0 +1,7 @@
+[0825/235836.217:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[0826/012324.794:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[0826/013038.650:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[0826/013959.452:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[0826/020137.547:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[0826/022116.036:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
+[0826/090439.304:ERROR:crashpad_client_win.cc(384)] OpenProcess: Access is denied. (0x5)
